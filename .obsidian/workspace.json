@@ -128,13 +128,29 @@
                 "file": "Test.md"
               }
             }
+          },
+          {
+            "id": "f222f78165229f11",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "58aaac49d770f5f1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,8 +162,9 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "2638c3b8364e22de",
+  "active": "30d15e0ee1eb8521",
   "lastOpenFiles": [
-    "Test.md"
+    "Test.md",
+    "Test2.md"
   ]
 }
