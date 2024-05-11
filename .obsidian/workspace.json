@@ -114,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 494.5
+    "width": 246.5
   },
   "right": {
     "id": "af87bf07dbf78023",
@@ -210,7 +210,7 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "419b6fbbd3bbb260",
+  "active": "1b1696ec4ffeec75",
   "lastOpenFiles": [
     "Notes/プログラミング/CSharp/初心者が身に着けるべき30の文法.md",
     "Notes/プログラミング/CSharp/単一責務の法則とは.md",
