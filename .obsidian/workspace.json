@@ -16,30 +16,55 @@
             }
           },
           {
-            "id": "b9cbc5e0310c2526",
+            "id": "feff244f2a977e6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-05-06.md",
+                "file": "Notes/プログラミング/ピーコックアンダーソン.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3136ffabd3d322df",
+            "id": "923355b401aac7ef",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".trash/2024-04-28 2.md",
-                "staged": false
+                "file": "Notes/プログラミング/ピーコックアンダーソン.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "843e380e870b1f6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-05-11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22bef9b04c006d25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/プログラミング/WinForm/ドメイン駆動開発とテスト駆動開発を使って保守性の高いプログラミングをする方法.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -89,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 464.5
   },
   "right": {
     "id": "af87bf07dbf78023",
@@ -105,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/プログラミング/WinForm/ドメイン駆動開発とテスト駆動開発を使って保守性の高いプログラミングをする方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/プログラミング/WinForm/ドメイン駆動開発とテスト駆動開発を使って保守性の高いプログラミングをする方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/プログラミング/WinForm/ドメイン駆動開発とテスト駆動開発を使って保守性の高いプログラミングをする方法.md"
+              }
             }
           },
           {
@@ -162,11 +191,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,29 +210,41 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "1b1696ec4ffeec75",
+  "active": "22bef9b04c006d25",
   "lastOpenFiles": [
+    "Notes/プログラミング/WinForm/ネームスペースの調整方法.md",
+    "Notes/プログラミング/WinForm/例外処理をProgramクラスで一括で受ける.md",
+    "Notes/プログラミング/WinForm/ドメイン駆動開発とテスト駆動開発を使って保守性の高いプログラミングをする方法.md",
+    "Notes/プログラミング/WinForm/テスト駆動開発の推奨手順.md",
+    "Notes/プログラミング/WinForm/クラスの中に記述する順序.md",
+    "Notes/プログラミング/WinForm/StyleCopAnalyzersでコード解析.md",
+    "Notes/プログラミング/WinForm/Mockを使ってファイル操作のテストをする方法.md",
+    "Notes/プログラミング/WinForm/CSharpとSQLServerを繋いでデータを操作する4つの方法.md",
+    "Notes/プログラミング/CSharp/オブジェクト指向のインターフェースについて.md",
+    "Notes/プログラミング/CSharp/ポリモーフィズムとは.md",
+    "Notes/プログラミング/CSharp/初心者が身に着けるべき30の文法.md",
+    "Notes/プログラミング/CSharp/抽象クラスとは.md",
+    "Notes/プログラミング/CSharp/単一責務の法則とは.md",
+    "Notes/プログラミング/CSharp/非同期処理でプログラミングする方法.md",
+    "Notes/プログラミング/CSharp/継承とは.md",
+    "Notes/プログラミング/CSharp/オープン・クローズドの原則とは.md",
+    "Notes/プログラミング/CSharp/オーバーライドとは.md",
+    "Notes/プログラミング/CSharp/インターフェースとは.md",
+    "Notes/プログラミング/ピーコックアンダーソン.md",
+    "Notes/プログラミング/CSharp",
+    "Notes/見聞録/無題のファイル.md",
+    "Daily/2024-05-11.md",
+    "Notes/プログラミング/データベース/データベース設計とは.md",
+    "Notes/プログラミング/データベース",
+    "Notes/プログラミング/WinForm",
+    "Notes/プログラミング/オブジェクト指向の継承.md",
+    "Notes/プログラミング/WinForm_オブジェクト指向のカプセル化.md",
     "Media/見聞録/無題のファイル.md",
     "Media/見聞録",
     "見聞録/無題のファイル.md",
     "見聞録",
-    "Notes/プログラミング/ドメイン駆動開発とテスト駆動開発を使って保守性の高いプログラミングをする方法.md",
-    "Daily/2024-05-11.md",
-    "Notes/プログラミング/ピーコックアンダーソンまとめ.md",
-    "Notes/プログラミング/非同期処理でプログラミングする方法.md",
     "Config/Extra/Pasted image 20240503193842.png",
-    "Notes/無題のファイル.md",
-    "Notes/見聞録/無題のファイル.md",
     "Notes/見聞録",
-    "Daily/2024-05-06.md",
-    "Daily/2024-05-09.md",
-    "Daily/2024-05-05.md",
-    "Daily/2024-05-07.md",
-    "Daily/2024-05-08.md",
-    "Media/Kindle/Jeg-読むだけで一生お金に困らない メンタルブロック浄化法【対話版】.md",
-    "Inbox/なぜObsidianを紹介する人の文章は読みにくいのか.md",
-    "Inbox/Obsidianを使ったノートの取り方について.md",
-    "Media/Kindle/ピーコックアンダーソン-C#でドメイン駆動開発パート２.md",
     "Config/Extra/Pasted image 20240503210429.png",
     "Config/Extra/Pasted image 20240506211010.png",
     "Config/Extra/Pasted image 20240506205248.png",
@@ -212,24 +253,12 @@
     "Config/Extra/Pasted image 20240506203629.png",
     "Config/Extra/Pasted image 20240506182548.png",
     "Config/Extra/Pasted image 20240506181449.png",
-    "Notes/プログラミング/CSharpとSQLServerを繋いでデータを操作する4つの方法.md",
-    "Notes/例外処理をProgramクラスで一括で受ける.md",
-    "Notes/プログラミング/初心者が身に着けるべき30の文法.md",
-    "Notes/プログラミング/オープン・クローズドの原則.md",
-    "Notes/プログラミング/単一責務の法則.md",
-    "Notes/プログラミング/オブジェクト指向の継承.md",
-    "Notes/プログラミング/オブジェクト指向のインターフェース.md",
-    "Notes/プログラミング/オブジェクト指向のカプセル化.md",
-    "Notes/プログラミング/ネームスペースの調整.md",
     "Tests/無題のファイル 1.canvas",
     "Tests/無題のファイル.canvas",
     "Tests",
     "Notes/プログラミング",
     "Inbox",
     "Notes/プログラミング/Cシャープ",
-    "Config/Extra/Pasted image 20240504193734.png",
-    "Notes/プログラミング",
-    "Daily/Weekly",
-    "Media"
+    "Config/Extra/Pasted image 20240504193734.png"
   ]
 }

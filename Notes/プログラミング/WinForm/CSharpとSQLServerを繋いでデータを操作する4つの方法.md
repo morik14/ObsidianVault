@@ -3,19 +3,23 @@ tags:
   - プログラミング
   - CSharp
   - データベース
+  - WinForm
+  - ソースコード
 ---
-# データベースとテーブルの作成
+# CSharpとSQLServerを繋いでデータを操作する4つの方法
+
+## データベースとテーブルの作成
 
 SQL Server Management Studioから行う
 
-# CSharpからSQLServerにつなぐ方法
+## CSharpからSQLServerにつなぐ方法
 
 SQLServerにつなぐにはサーバー名と認証方式が必要
 SQLServer認証はユーザー名とパスワードが必要
 
-# サンプルコード
+## サンプルコード
 
-## エンティティー
+### エンティティー
 
 ```c#
 namespace Hoimi.SqlServer
@@ -44,7 +48,7 @@ namespace Hoimi.SqlServer
 }
 ```
 
-## SQLServerからCRUDするクラス
+### SQLServerからCRUDするクラス
 
 ```c#
 namespace Hoimi.SqlServer
@@ -172,10 +176,10 @@ WHERE ProductId = @ProductId
 }
 ```
 
-## Dapperでデータを取得する方法
-# 用語
+### Dapperでデータを取得する方法
+## 用語
 
-完全コンストラクタパターン
-# 外部リンク
+### 完全コンストラクタパターン
+## 外部リンク
 
 [SQL Server データ型のマッピング](https://learn.microsoft.com/ja-jp/dotnet/framework/data/adonet/sql-server-data-type-mappings)

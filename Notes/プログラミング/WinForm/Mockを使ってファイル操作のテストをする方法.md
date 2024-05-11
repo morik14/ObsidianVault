@@ -2,10 +2,16 @@
 tags:
   - プログラミング
   - CSharp
+  - WinForm
+  - ソースコード
 ---
-# Mockを使わないサンプルコード
+# Mockを使ってファイル操作のテストをする方法
 
-## テストされる側
+## サンプルコード
+
+### Mockを使わない
+
+#### テストされる側
 
 ```c#
 namespace TDD.WinForm.Objects
@@ -21,7 +27,7 @@ namespace TDD.WinForm.Objects
 }
 ```
 
-## テストする側
+#### テストする側
 
 ```c#
 namespace TDDTest.Tests
@@ -39,14 +45,14 @@ namespace TDDTest.Tests
 }
 ```
 
-## 問題点
+#### 問題点
 
 正常系と異常系を同時にテストできない
 
-# Mockを使うサンプルコード
+### Mockを使う
 
-## テストされる側
-### インターフェース
+#### テストされる側
+##### インターフェース
 
 ```c#
 namespace TDD.WinForm.Objects
@@ -58,7 +64,7 @@ namespace TDD.WinForm.Objects
 }
 ```
 
-### インターフェースを実装するクラス
+##### インターフェースを実装するクラス
 
 ```c#
 namespace TDD.WinForm.Objects
@@ -73,7 +79,7 @@ namespace TDD.WinForm.Objects
 }
 ```
 
-### テストが必要な部分
+##### テストが必要な部分
 
 ```c#
 namespace TDD.WinForm.Objects
@@ -97,9 +103,9 @@ namespace TDD.WinForm.Objects
 }
 ```
 
-## テストする側
+#### テストする側
 
-### Mockを作る
+##### Mockを作る
 
 ```c#
 namespace TDDTest.Tests
@@ -120,7 +126,7 @@ namespace TDDTest.Tests
 ```
 
 
-### Mockを使ってテスト
+##### Mockを使ってテスト
 
 ```c#
 namespace TDDTest.Tests
@@ -149,7 +155,7 @@ namespace TDDTest.Tests
 }
 ```
 
-### ポイント
+#### ポイント
 
 外部と接続する部分をMock化している
 返却する値を外部から変更して、正常系と異常系のテストができる
