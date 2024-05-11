@@ -1,1 +1,9 @@
-{}
+{
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes",
+  "attachmentFolderPath": "Config/Extra",
+  "showInlineTitle": true,
+  "tabSize": 4
+}
