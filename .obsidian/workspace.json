@@ -40,18 +40,6 @@
             }
           },
           {
-            "id": "22bef9b04c006d25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/プログラミング/CSharp/オブジェクト指向のカプセル化.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "419b6fbbd3bbb260",
             "type": "leaf",
             "state": {
@@ -62,9 +50,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "533115886154ef59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/プログラミング/開発環境/VisutalStudioでソースコード管理する方法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20a39374bbd22696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/プログラミング/WinForm/ドメイン駆動開発の実践.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 353.5
   },
   "right": {
     "id": "af87bf07dbf78023",
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/プログラミング/CSharp/単一責務の法則とは.md",
+                "file": "Notes/プログラミング/WinForm/ドメイン駆動開発の実践.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/プログラミング/CSharp/単一責務の法則とは.md",
+                "file": "Notes/プログラミング/WinForm/ドメイン駆動開発の実践.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/プログラミング/CSharp/単一責務の法則とは.md"
+                "file": "Notes/プログラミング/WinForm/ドメイン駆動開発の実践.md"
               }
             }
           },
@@ -191,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -210,37 +222,39 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "1b1696ec4ffeec75",
+  "active": "20a39374bbd22696",
   "lastOpenFiles": [
-    "Notes/プログラミング/CSharp/初心者が身に着けるべき30の文法.md",
+    "Notes/プログラミング/WinForm/ドメイン駆動開発のアーキテクチャについて.md",
+    "Notes/プログラミング/WinForm/ドメイン駆動開発の考え方について.md",
+    "Notes/プログラミング/WinForm/ドメイン駆動開発の実践.md",
+    "Notes/プログラミング/WinForm/ネームスペースの調整方法.md",
+    "Notes/プログラミング/WinForm/例外処理をProgramクラスで一括で受ける.md",
+    "Notes/プログラミング/WinForm/Mockを使ってファイル操作のテストをする方法.md",
+    "Notes/プログラミング/WinForm/SQLServerを繋いでCRUDする4つの方法.md",
+    "Notes/プログラミング/WinForm/StyleCopAnalyzersでコード解析.md",
+    "Notes/プログラミング/WinForm/テスト駆動開発の推奨手順.md",
+    "Notes/見聞録/無題のファイル.md",
+    "Notes/プログラミング/開発環境/VisutalStudioでソースコード管理する方法.md",
+    "Notes/プログラミング/開発環境",
+    "Daily/2024-05-12.md",
+    "Daily/2024-05-11.md",
+    "Notes/プログラミング/CSharp/オブジェクト指向のカプセル化.md",
     "Notes/プログラミング/CSharp/単一責務の法則とは.md",
+    "Notes/プログラミング/CSharp/初心者が身に着けるべき30の文法.md",
     "Notes/プログラミング/CSharp/抽象クラスとは.md",
     "Notes/プログラミング/CSharp/非同期処理でプログラミングする方法.md",
-    "Notes/プログラミング/WinForm/ドメイン駆動開発のアーキテクチャについて.md",
     "Notes/プログラミング/CSharp/クラスの中に記述する順序.md",
-    "Notes/プログラミング/WinForm/SQLServerを繋いでCRUDする4つの方法.md",
-    "Notes/プログラミング/WinForm/ドメイン駆動開発の実践.md",
     "Notes/プログラミング/CSharp/オープン・クローズドの原則とは.md",
     "Notes/プログラミング/CSharp/オーバーライドとは.md",
     "Notes/プログラミング/CSharp/インターフェースとは.md",
-    "Notes/見聞録/無題のファイル.md",
     "Config/Extra/Pasted image 20240511225224.png",
     "Config/Extra/Pasted image 20240511225208.png",
     "Config/Extra/Pasted image 20240511225103.png",
     "Notes/プログラミング/ピーコックアンダーソン.md",
-    "Notes/プログラミング/WinForm/ドメイン駆動開発の考え方について.md",
-    "Notes/プログラミング/WinForm/Mockを使ってファイル操作のテストをする方法.md",
     "Notes/プログラミング/CSharp/オブジェクト指向のインターフェースについて.md",
     "Notes/プログラミング/CSharp/ポリモーフィズムとは.md",
-    "Daily/2024-05-11.md",
-    "Notes/プログラミング/CSharp/オブジェクト指向のカプセル化.md",
-    "Notes/プログラミング/WinForm/ネームスペースの調整方法.md",
-    "Notes/プログラミング/WinForm/例外処理をProgramクラスで一括で受ける.md",
-    "Notes/プログラミング/WinForm/テスト駆動開発の推奨手順.md",
-    "Notes/プログラミング/WinForm/StyleCopAnalyzersでコード解析.md",
     "Notes/プログラミング/CSharp/継承とは.md",
     "Notes/プログラミング/CSharp",
-    "Notes/プログラミング/データベース/データベース設計とは.md",
     "Notes/プログラミング/データベース",
     "Notes/プログラミング/WinForm",
     "Media/見聞録",
@@ -257,7 +271,6 @@
     "Tests/無題のファイル.canvas",
     "Tests",
     "Notes/プログラミング",
-    "Inbox",
-    "Notes/プログラミング/Cシャープ"
+    "Inbox"
   ]
 }
