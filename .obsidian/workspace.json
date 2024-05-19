@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/プログラミング/WinForm/ドメイン駆動開発の実践.md",
+                "file": "Notes/プログラミング/WinForm/ドメイン駆動開発の考え方について.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,14 +69,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/プログラミング/WinForm/ドメイン駆動開発の実践.md",
+                "file": "Daily/2024-05-17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db573fc603cc4c43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tests/話題.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bd936002ea985c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/プログラミング/WinForm/ドメイン駆動開発の考え方について.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -142,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/プログラミング/WinForm/ドメイン駆動開発の実践.md",
+                "file": "Notes/プログラミング/WinForm/ドメイン駆動開発の考え方について.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/プログラミング/WinForm/ドメイン駆動開発の実践.md",
+                "file": "Notes/プログラミング/WinForm/ドメイン駆動開発の考え方について.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/プログラミング/WinForm/ドメイン駆動開発の実践.md"
+                "file": "Notes/プログラミング/WinForm/ドメイン駆動開発の考え方について.md"
               }
             }
           },
@@ -222,38 +246,38 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "20a39374bbd22696",
+  "active": "0bd936002ea985c4",
   "lastOpenFiles": [
+    "Config/Extra/Pasted image 20240519233624.png",
     "Notes/プログラミング/WinForm/ドメイン駆動開発のアーキテクチャについて.md",
     "Notes/プログラミング/WinForm/ドメイン駆動開発の考え方について.md",
     "Notes/プログラミング/WinForm/ドメイン駆動開発の実践.md",
+    "Inbox/Obsidianを使ったノートの取り方について.md",
+    "Daily/2024-05-19.md",
+    "Media/Kindle/ＭＢ-最速でおしゃれに見せる方法 【電子限定特典付き】.md",
+    "Media/Kindle/瑛太-20,000字の本が１ヶ月で出せる：AI・ChatGPTを駆使して文章を執筆する：スピードライティングメソッド【副業】【お金】【書く】【web】 書く副業.md",
+    "Daily/2024-05-17.md",
+    "Notes/プログラミング/CSharp/単一責務の法則とは.md",
+    "Tests/話題.md",
+    "Daily/2024-05-12.md",
+    "Notes/見聞録/無題のファイル.md",
+    "Inbox/なぜObsidianを紹介する人の文章は読みにくいのか.md",
     "Notes/プログラミング/WinForm/ネームスペースの調整方法.md",
     "Notes/プログラミング/WinForm/例外処理をProgramクラスで一括で受ける.md",
     "Notes/プログラミング/WinForm/Mockを使ってファイル操作のテストをする方法.md",
     "Notes/プログラミング/WinForm/SQLServerを繋いでCRUDする4つの方法.md",
     "Notes/プログラミング/WinForm/StyleCopAnalyzersでコード解析.md",
     "Notes/プログラミング/WinForm/テスト駆動開発の推奨手順.md",
-    "Notes/見聞録/無題のファイル.md",
     "Notes/プログラミング/開発環境/VisutalStudioでソースコード管理する方法.md",
     "Notes/プログラミング/開発環境",
-    "Daily/2024-05-12.md",
     "Daily/2024-05-11.md",
     "Notes/プログラミング/CSharp/オブジェクト指向のカプセル化.md",
-    "Notes/プログラミング/CSharp/単一責務の法則とは.md",
     "Notes/プログラミング/CSharp/初心者が身に着けるべき30の文法.md",
     "Notes/プログラミング/CSharp/抽象クラスとは.md",
     "Notes/プログラミング/CSharp/非同期処理でプログラミングする方法.md",
-    "Notes/プログラミング/CSharp/クラスの中に記述する順序.md",
-    "Notes/プログラミング/CSharp/オープン・クローズドの原則とは.md",
-    "Notes/プログラミング/CSharp/オーバーライドとは.md",
-    "Notes/プログラミング/CSharp/インターフェースとは.md",
     "Config/Extra/Pasted image 20240511225224.png",
     "Config/Extra/Pasted image 20240511225208.png",
     "Config/Extra/Pasted image 20240511225103.png",
-    "Notes/プログラミング/ピーコックアンダーソン.md",
-    "Notes/プログラミング/CSharp/オブジェクト指向のインターフェースについて.md",
-    "Notes/プログラミング/CSharp/ポリモーフィズムとは.md",
-    "Notes/プログラミング/CSharp/継承とは.md",
     "Notes/プログラミング/CSharp",
     "Notes/プログラミング/データベース",
     "Notes/プログラミング/WinForm",
